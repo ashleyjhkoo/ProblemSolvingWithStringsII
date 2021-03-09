@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Part2
+comment1.params=stringa\ stringb\ where
+comment1.target=java.lang.String\ findString(java.lang.String,\ java.lang.String,\ int)
+comment2.params=stringa\ stringb
+comment2.target=int\ howMany(java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=void\ testHowMany()
+numComments=4
